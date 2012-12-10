@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExamProgLibrary.OrderViewsInfo">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAABAgEAAAEEAAAAAQAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>OrderViewsInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.SendersInfo">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAIAEAAAAAAQiAEAAgAAA=</HashCode>
+      <FileName>SendersInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.RecipientsInfo">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAgACAAAAAAAQAAAAgIQAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>RecipientsInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.OrdersInfo">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAZAgEAAADAgABAAEQAAAAAMAQAABgUAAIAAgAAA=</HashCode>
+      <FileName>OrdersInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.ColourProperties">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ColourProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.FilterProperties">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FilterProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.SendersList">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SendersList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.FilterValue">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAEgAAAAAAA=</HashCode>
+      <FileName>FilterValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.DefaultConnectionStringSQL">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DefaultConnectionStringSQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.ColourValues">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAIAEAAAAAAAAAAAAAAAAAAAAEggAAAAAA=</HashCode>
+      <FileName>ColourValues.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.OrdersList">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OrdersList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.OrderViewList">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OrderViewList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamProgLibrary.RecipientsList">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RecipientsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
